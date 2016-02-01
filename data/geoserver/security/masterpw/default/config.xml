@@ -1,0 +1,8 @@
+<urlProvider>
+  <id>43c3a83e:1529605050a:-7ff8</id>
+  <name>default</name>
+  <className>org.geoserver.security.password.URLMasterPasswordProvider</className>
+  <readOnly>false</readOnly>
+  <url>file:passwd</url>
+  <encrypting>true</encrypting>
+</urlProvider>
